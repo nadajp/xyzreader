@@ -18,11 +18,11 @@
 <resources>
 
     <style name="Theme.Bacon" parent="@style/Theme.AppCompat.Light.NoActionBar">
-        <item name="android:colorPrimary">@color/bluegrey_500</item>
-        <item name="android:colorPrimaryDark">@color/bluegrey_700</item>
-        <item name="android:colorAccent">@color/pink_300</item>
-        <item name="android:textColorPrimary">@color/bluegrey_800</item>
-        <item name="android:toolbarStyle">@style/ToolbarStyle</item>
+        <item name="colorPrimary">@color/bluegrey_500</item>
+        <item name="colorPrimaryDark">@color/bluegrey_700</item>
+        <item name="colorAccent">@color/pink_300</item>
+        <item name="android:textColorPrimary">@color/bluegrey_700</item>
+        <item name="toolbarStyle">@style/ToolbarStyle</item>
     </style>
 
     <style name="ToolbarStyle" parent="Widget.AppCompat.Toolbar">
